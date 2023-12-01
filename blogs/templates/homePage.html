@@ -1,0 +1,15 @@
+{% extends "master.html" %}
+{% block title %}
+Homepage
+{% endblock %}
+
+
+{% load static %}
+{% block content %}
+<div>
+    <h1>Home page {{username}}</h1>
+    <button class="btn text-bg-info"><a href="{% url 'blogs' %}">blogs</a></button>
+    <button class="btn text-bg-danger border-0" > <a href="{% url 'logout'%}" class="text-white">Logout</a> </button>
+</div>
+
+{% endblock %}
