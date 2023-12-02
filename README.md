@@ -1,4 +1,4 @@
-# RestAPI_New
+# RestAPI_New - FUNGUJE TO NA SERVERU
 # Django Rest API Project 
 Webová aplikace, co používá Django Rest API framework a Ubuntu Nginx server na AWS.
 
