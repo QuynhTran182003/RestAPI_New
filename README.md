@@ -15,6 +15,7 @@ Webová aplikace, co používá Django Rest API framework a Ubuntu Nginx server 
 *api/blog/*
  - Vrátí všechny blogy v formátu JSON Id, Content, Date, Author{data autora}
  - Má možnost k GET a POST request.
+ - POST: stačí zadat "Content", ostatní pole (id, date, author) se automaticky vyplní.
  
 *api/blog/blogId/<int:id>*
  - Vrátí jeden blog podle id v formátu JSON
