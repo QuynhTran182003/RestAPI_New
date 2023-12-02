@@ -1,4 +1,5 @@
 # RestAPI_New - FUNGUJE TO NA SERVERU
+http://3.85.137.75:8000/signin/
 # Django Rest API Project 
 Webová aplikace, co používá Django Rest API framework a Ubuntu Nginx server na AWS.
 
