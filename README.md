@@ -25,7 +25,7 @@ Webová aplikace, co používá Django Rest API framework a Ubuntu Nginx server 
 - GET: render HTML stranku
 - POST: prihlaseni uzivatele
 
-*api/register/*
+*/register/*
 - Endpoint na registraci:
 - GET: render HTML stranku
 - POST: zaregistrovani uzivatele, kdyz projde tak redirect -> signin
