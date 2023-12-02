@@ -2,11 +2,11 @@
 # Django Rest API Project 
 Webová aplikace, co používá Django Rest API framework a Ubuntu Nginx server na AWS.
 
-Vyzkoušejte s uvedenymi credentials:
-Username: test
-Password: test
+- Vyzkoušejte s uvedenymi credentials:
+- Username: test
+- Password: test
 
-anebo sám se zaregistrujte a vyzkoušejte.
+- anebo sám se zaregistrujte a vyzkoušejte.
 
 
 ## Endpointy
